@@ -1,0 +1,9 @@
+{
+  "compilerOptions":
+  {
+    "target": "ES2024",
+    "esModuleInterop": true,
+    "allowImportingTsExtensions": true,
+    "jsx": "react-jsx"
+  }
+}
